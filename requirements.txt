@@ -1,0 +1,5 @@
+pandas
+docx
+pymongo
+sqlalchemy
+streamlit
