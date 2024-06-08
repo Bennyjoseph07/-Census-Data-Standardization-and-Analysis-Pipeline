@@ -33,7 +33,7 @@ cd Census-Data-Standardization-and-Analysis-Pipeline
 
 # Install dependencies
 pip install -r requirements.txt
-
+```bash
 ## Usage
 
 data_cleaning.py
