@@ -1,0 +1,16 @@
+census_data: census_2011.xlsx
+telangana_doc: Telangana.docx
+
+database:
+  mysql:  
+    host: 127.0.0.1  
+    port: 3306
+    user: root
+    password: 123
+    database: learning
+    table: census_data
+
+  mongodb:
+    url: mongodb+srv://benjo:12345@cluster0.x4wlqah.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+    database: census
+    collection: census_data
