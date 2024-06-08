@@ -25,7 +25,7 @@ To set up this project, clone the repository and install the necessary dependenc
 
 
 # Clone the repository
-git clone https://github.com/Bennyjoseph07/Census-Data-Standardization-and-Analysis-Pipeline.git
+git clone https://github.com/Bennyjoseph07/-Census-Data-Standardization-and-Analysis-Pipeline.git
 
 # Navigate to the project directory
 cd Census-Data-Standardization-and-Analysis-Pipeline
