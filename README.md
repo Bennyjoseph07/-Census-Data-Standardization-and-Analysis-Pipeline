@@ -45,14 +45,14 @@ streamlit.py
 streamlit run streamlit.py
 
 ## Scripts
-data_cleaningpy
+data_cleaning.py
 This script is responsible for cleaning and preprocessing raw data. It includes functions to handle missing values, normalize data, and other preprocessing tasks.
 And save the proccessed data to mongodb
 
-mongodb_to_mysqlpy
+mongodb_to_mysql.py
 This script handles the migration of data from MongoDB to MySQL. It connects to both databases, fetches data from MongoDB, and inserts it into MySQL tables.
 
-streamlitpy
+streamlit.py
 This Streamlit application provides a user-friendly interface for visualizing the processed data. It includes various interactive components to explore the data.
 
 
