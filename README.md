@@ -3,15 +3,16 @@ This project contains scripts for data cleaning, migration from MongoDB to MySQL
 
 ## Table of Contents
 
-1. Introduction
-2. Installation
-3. Usage
-4. Scripts
-   - data_cleaning.py
-   - mongodb_to_mysql.py
-   - streamlit.py
-
-5. Contact
+1. [Introduction](#introduction)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Scripts](#scripts)
+   - [data_cleaning.py](#data_cleaningpy)
+   - [mongodb_to_mysql.py](#mongodb_to_mysqlpy)
+   - [streamlit.py](#streamlitpy)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
 
 ## Introduction
 
