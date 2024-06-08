@@ -24,7 +24,7 @@ census data for further analysis and visualization.
 
 To set up this project, clone the repository and install the necessary dependencies:
 
-```bash
+
 # Clone the repository
 git clone https://github.com/Bennyjoseph07/Census-Data-Standardization-and-Analysis-Pipeline.git
 
@@ -33,7 +33,7 @@ cd Census-Data-Standardization-and-Analysis-Pipeline
 
 # Install dependencies
 pip install -r requirements.txt
-```bash
+
 ## Usage
 
 data_cleaning.py
