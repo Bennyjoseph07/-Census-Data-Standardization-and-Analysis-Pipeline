@@ -57,7 +57,8 @@ This Streamlit application provides a user-friendly interface for visualizing th
 
 
 ## Contact
-Created by Your Name - Benny Joseph
+Name - Benny Joseph
+
 Mail - benny07joseph@gmail.com
 
 Project Link: https://github.com/Bennyjoseph07/-Census-Data-Standardization-and-Analysis-Pipeline
